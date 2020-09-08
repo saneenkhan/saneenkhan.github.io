@@ -14,3 +14,42 @@ background-color: thistle;
 text-align: center;
 }
 
+.navigation {
+    background-color: thistle;
+    text-align: center;
+}
+
+a:hover {
+    background-color: violet;
+  }
+
+  .intro {
+    background-color: yellow;
+  }
+
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+span.Malaysia {
+color: midnightblue;
+}
+
+span.southafrica {
+color: midnightblue;
+}
+
+span.thailand {
+color:midnightblue;
+}
+
+.dyk {
+color: navy;
+background-color: violet;
+}
+
+.images {
+color: darkcyan;
+}
